@@ -1,0 +1,6 @@
+Field;PercentAgree_Pre;PercentAgree_Post;CohenKappa_Pre;CohenKappa_Post;NumDisagreements;NumResolved;MeanResolutionTime_min;Notes
+HasRecovered;80.0;100.0;0.41;1.0;2;2;NA;Main issue was whether a few maintenance commits count as a real recovery.
+WhyRecovered;50.0;100.0;NA;NA;5;5;NA;This had the most disagreements because the same post-gap commits can support different explanations.
+ActivityPattern;20.0;100.0;0.0;1.0;8;8;NA;"Combined labels like declining + irregular caused many mismatches; using one overall pattern made the coding more consistent."
+Currentstatus;80.0;100.0;0.6;1.0;2;2;NA;The fixed 2025-04-01 cutoff made the final decision clear once we checked the dates.
+RecentThemes;70.0;100.0;NA;NA;3;3;NA;Most disagreements were about the second theme when commits could fit more than one category.
